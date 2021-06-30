@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav a {
   padding: 5px 10px;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1 {
@@ -134,7 +134,7 @@ h1, h2, h3, h4, h5, h6, figure {
   transition: 0.5s;
 }
 .fh5co-nav ul li a:hover, .fh5co-nav ul li a:focus, .fh5co-nav ul li a:active {
-  color: white;
+  color: rgb(0, 0, 0);
 }
 .fh5co-nav ul li.has-dropdown {
   position: relative;
@@ -151,7 +151,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 0;
   text-align: left;
-  background: #fff;
+  background: rgb(0, 0, 0);
   padding: 20px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -170,7 +170,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 0;
   position: absolute;
   pointer-events: none;
-  border-bottom-color: #fff;
+  border-bottom-color: rgb(0, 0, 0);
   border-width: 8px;
   margin-left: -8px;
 }
@@ -199,7 +199,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #50CB86;
 }
 .fh5co-nav ul li.btn-cta a span {
-  background: #fff;
+  background: rgb(0, 0, 0);
   padding: 4px 20px;
   display: -moz-inline-stack;
   display: inline-block;
@@ -1316,17 +1316,17 @@ form label {
   content: '';
   width: 25px;
   height: 2px;
-  background: #252525;
+  background: #818181;
   position: absolute;
   left: 0;
   transition: all .2s ease-out;
 }
 .fh5co-nav-toggle.fh5co-nav-white > i {
-  color: #fff;
-  background: #fff;
+  color: rgb(0, 0, 0);
+  background: rgb(0, 0, 0);
 }
 .fh5co-nav-toggle.fh5co-nav-white > i::before, .fh5co-nav-toggle.fh5co-nav-white > i::after {
-  background: #fff;
+  background: rgb(0, 0, 0);
 }
 
 .fh5co-nav-toggle i::before {
